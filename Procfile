@@ -1,2 +1,2 @@
-web: dart web/server.dart
+web: ./dart-sdk/bin/dart web/server.dart
 
