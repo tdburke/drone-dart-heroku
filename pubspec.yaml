@@ -1,0 +1,7 @@
+name:  dronedartheroku
+description:  A sample Dart application with client and server deployed to Heroku
+
+dependencies:
+  browser: any
+#  js: any
+#  unittest: any
